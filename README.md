@@ -5,7 +5,7 @@ To utilize this script on a Linux system, follow these steps:
 
 Save the script to a file and grant executable permissions using:
 
-./sudo chmod +x script.sh
+sudo chmod +x script.sh
 
 
 Execute the script with various options for managing users, groups, and backups.
